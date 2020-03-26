@@ -1,7 +1,7 @@
 {
   "name": "node-authentication",
   "main": "server.js",
-  "scripts":{
+  "scripts": {
     "start": "node server.js",
     "barista": "nodemon server.js"
   },
